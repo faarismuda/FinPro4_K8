@@ -29,7 +29,7 @@
                 android:padding="10dp"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:text="Where do you want to go?"/>
+                android:text="K8 Bus"/>
             <androidx.cardview.widget.CardView
                 android:layout_margin="10dp"
                 android:layout_width="match_parent"
@@ -59,7 +59,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     android:drawablePadding="8dp"
-                    android:hint="Enter place name"/>
+                    android:hint="Jakarta"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -74,7 +74,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     android:drawablePadding="8dp"
-                    android:hint="Enter place name"/>
+                    android:hint="Bandung"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -97,7 +97,7 @@
                     android:layout_margin="10dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Search"
+                    android:text="Discover"
                     />
 
             </LinearLayout>

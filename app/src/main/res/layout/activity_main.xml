@@ -27,9 +27,9 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="K8 Bus   "
+                android:text="K8 Bus  "
                 android:textColor="@color/white"
-                android:textSize="17sp" />
+                android:textSize="24sp" />
 
             <ImageView
                 android:layout_width="60dp"
