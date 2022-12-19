@@ -2,7 +2,7 @@ package com.k8.finalproject4_kelompok8.utils;
 
 public class Constants {
     // Change this base url by ur IP Address
-    public static String BASE_URL="http://192.168.1.23/";
+    public static String BASE_URL="http://192.168.1.9/";
 
     public static String IS_LOGGED_IN_KEY = "loginKey";
     public static String IS_ADMIN = "admin";
