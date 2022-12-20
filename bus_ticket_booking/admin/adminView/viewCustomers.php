@@ -4,7 +4,7 @@
     <thead>
       <tr>
         <th>S.N.</th>
-        <th>Username </th>
+        <th>Username</th>
         <th>Email</th>
         <th>Contact Number</th>
         <th>Registered Date</th>
